@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trinhhuong244
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning AI & Data Science
+- 🌱 I’m currently AI enginer & Data Science
 - 💞️ I’m looking to collaborate on ML
 - 📫 Reach me on https://www.facebook.com/trinh.x.huong
 
